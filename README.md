@@ -1,2 +1,3 @@
-#Contact information
-vuctor.drag@gmail.com
+# Contact information
+
+Email:vuctor.drag@gmail.com
